@@ -1,0 +1,72 @@
+
+#container {
+     margin: 0;
+    padding: 0; 
+    height: 00vh;
+    width: 100wh;
+
+    bottom: -470px;
+    display: block;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    margin-top: -470px;
+    border: 4px black solid;
+    border-radius: 25px;
+    position: relative;
+    align-content: center;
+    align-self: flex-start;
+    flex-direction: column;
+    justify-content:space-around;
+
+}
+
+img {
+    border-radius: 10%;
+    height: 440px;
+    left: 100px;
+    padding: 25px;
+    border-radius: 100%;
+
+}
+
+H1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    text-align: center;
+    right: 100px;
+    color: black;
+}
+
+#DIV2 {
+    justify-content: center;
+
+}
+#box4{
+    height: 100vh;
+    width: 100vw;
+    
+}
+
+table {
+      width: 90%;
+      margin: 20px auto;
+      border-collapse: collapse;
+      text-align: center; color: #000000;
+      align-content: center;
+    }
+
+
+#img2{
+    height: 900px;
+}
+body {
+    background-image: url(SARHAN24.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-blend-mode: none;
+    font-size: 30px;
+   
+} 
